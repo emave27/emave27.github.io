@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my silly homepage
+
+Nothing much to see here (yet!), just me trying out some stuff
 
 You can use the [editor on GitHub](https://github.com/emave27/emave27.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
